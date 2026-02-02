@@ -1,9 +1,5 @@
 {
   "homepage": "https://rajak82001.github.io/OAuth-Integration/",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/rajak82001/OAuth-Integration.git"
-  },
   "name": "oauth-integration",
   "private": true,
   "version": "0.0.0",

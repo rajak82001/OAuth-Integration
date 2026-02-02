@@ -7,5 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: "/OAuth-Integration/",
+  base: "/OAuth-Integration",
 })
